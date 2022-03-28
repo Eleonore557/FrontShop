@@ -23,7 +23,7 @@ const ProductGrid = (props) => {
     function handleOnSearch({ currentTarget  = {} }) {
         const { value } = currentTarget;
         setQuery(value); 
-    }  
+    }
     return (
         <>
             <div className={styles.shop__grid}>

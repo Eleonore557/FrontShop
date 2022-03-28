@@ -1,23 +1,15 @@
 const Categories=[
     {
         id:1,
-        title:"Mens black Shirt",
-        price:213,
+        title:"action"
     },
     {
         id:2,
-        title:"Women black Shirt",
-        price:113,
+        title:"fantastique",
     },
     {
         id:3,
-        title:"Children black Shirt",
-        price:313,
+        title:"sport",
     },
-    {
-        id:4,
-        title:"White Shirt",
-        price:413,
-    }
 ]
 export default Categories;
